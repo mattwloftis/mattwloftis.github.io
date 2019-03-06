@@ -1,0 +1,34 @@
+---
+title: "Preliminary graphics of Danish secondary legislation"
+author: "Matt W. Loftis"
+date: "March 7, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- ![](lag_to_first_ministry.pdf) -->
+
+
+![](bar_pct_dec_ministry.pdf){width=90% height=500px}
+![](bar_pct_dec_topic.pdf){width=90% height=500px}
+
+![](bar_pct_lbk_ministry.pdf){width=90% height=500px}
+![](bar_pct_lbk_topic.pdf){width=90% height=500px}
+
+![](lag_to_first_ministry.pdf){width=90% height=500px}
+![](lag_to_first_topic.pdf){width=90% height=500px}
+
+![](law_decree_percentages.pdf){width=90% height=500px}
+
+![](weekly_decrees_raw.pdf){width=90% height=500px}
+![](weekly_decrees_loess.pdf){width=90% height=500px}
+![](weekly_decrees_cap.pdf){width=90% height=500px}
+
+<!-- \begin{figure} -->
+<!--   \scalebox{1}{\includegraphics{law_decree_percentages.pdf}} -->
+<!-- \end{figure} -->
+
+
